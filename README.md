@@ -2,10 +2,6 @@
 
 A modern sign-up page built with **HTML5** and **CSS3** as part of **The Odin Project Foundations** curriculum.
 
-## Preview
-
-![Project Preview](assets/sign-up-form.png)
-
 ## Features
 
 - Two-column layout using Flexbox
